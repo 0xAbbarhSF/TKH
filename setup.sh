@@ -4,8 +4,9 @@ echo ""
 figlet StarFord
 echo ""
 echo -e "\e[32m[+] Facebook: StarFord II"
-echo -e "\e[1;91m [+] YouTube: \e[1;92mStarFord"
+echo -e "\e[1;91m [+] YouTube: \e[1;92mhttps://youtu.be/jwTXOSVEL9g"
 echo -e "\e[1;91m [+] Github: \e[1;92mStar-Ford\e[1;97m"
+
 echo ""
 read -p " Do you want to install Kali Linux Shell (2020.4) for termux ?(Yes/No) : " input
 
