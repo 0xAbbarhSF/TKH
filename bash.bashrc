@@ -3,7 +3,7 @@ command_not_found_handle() {
 }
 clear
 figlet Kali Linux
-echo "\e[31m GitHub: https://github.com/Star-Ford \e[0m"
+echo -e "\e[31m GitHub: https://github.com/Star-Ford \e[0m"
 echo ""
 
 
