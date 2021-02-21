@@ -23,3 +23,6 @@ with this simple script, Your Termux Will looks like kali linux terminal (2020.4
 please report any error to me
 Now Restart Termux.
 DONE =
+
+Video Tutorial 
+https://youtu.be/jwTXOSVEL9g
