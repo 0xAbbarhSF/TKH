@@ -3,7 +3,7 @@ clear
 echo ""
 figlet StarFord
 echo ""
-echo -e "\e[32m[+] Facebook: StarFord II"
+echo -e "\e[32m[+] Facebook: StarFord NG"
 echo -e "\e[1;91m [+] YouTube: \e[1;92mhttps://youtu.be/jwTXOSVEL9g"
 echo -e "\e[1;91m [+] Github: \e[1;92mStar-Ford\e[1;97m"
 
